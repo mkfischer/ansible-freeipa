@@ -6,3 +6,7 @@
 /.venv/
 
 tests/logs/
+
+#mystuff
+setVars.sh
+unsetVars.sh
